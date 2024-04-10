@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+div {
+    border: 1px solid rgba(36, 43, 50, 0.54);
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
